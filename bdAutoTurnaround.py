@@ -1,10 +1,11 @@
-##########################
-## BENJAMIN DANNEVILLE  ##
-## Auto Turnaround      ##
-##                      ##
-## Version : 1.0        ##
-## Date : February 2021 ##
-##########################
+######################################################
+## BENJAMIN DANNEVILLE                              ##
+## Auto Turnaround                                  ##
+##                                                  ##
+## Version : 1.0                                    ##
+## Date : February 2021                             ##
+## Website : https://www.benjamindanneville.com/    ##
+######################################################
 
 import maya.cmds as cmds
 from functools import partial
